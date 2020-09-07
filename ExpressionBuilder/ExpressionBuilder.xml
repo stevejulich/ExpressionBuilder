@@ -8,7 +8,7 @@
             <summary>
             Gets a member expression for an specific property
             </summary>
-            <param name="param"></param>
+            <param name="param">TOTO</param>
             <param name="propertyName"></param>
             <returns></returns>
         </member>
