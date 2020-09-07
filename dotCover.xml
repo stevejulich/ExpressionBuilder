@@ -3,7 +3,7 @@
   <TargetArguments>ExpressionBuilder.Test\bin\Debug\ExpressionBuilder.Test.dll</TargetArguments>
   <TargetWorkingDir>.</TargetWorkingDir>
   <Output>CoverageAnalysis\TestsCoverage.html</Output>
-  <ReportType>html</ReportType>
+  <ReportType>htmlTOTOTOTOTOTOTOTOTOTO</ReportType>
 
   <Filters>
     <ExcludeFilters>
